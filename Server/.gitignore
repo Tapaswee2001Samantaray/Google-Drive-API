@@ -1,4 +1,4 @@
-/ node_modules
-/ package-lock.json
-/ token.json
-/ credentials.json
+/node_modules
+/package-lock.json
+/token.json
+/credentials.json
